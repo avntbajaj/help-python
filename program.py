@@ -2,6 +2,6 @@
 #edit age as per required
 age = 21
 if age < 17:
-    print('not eligible')
+    print('Oops! The person is not eligible to vote')
 else:
-    print('eligible')
+    print('Yay! The person is eligible to vote. Do cast your vote.')
